@@ -54,7 +54,7 @@ const viewerOptions = {
 
 class SandDanceChart extends React.Component {
 
-    constructor(props: Props) {
+    constructor(props) {
         super(props);
         this.state = {
             chartData: [],
